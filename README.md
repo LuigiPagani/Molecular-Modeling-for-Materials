@@ -11,7 +11,7 @@ This repository contains various simulations and modeling techniques applied to 
   - Implementation of Metropolis-Hastings for simulating phase transitions.
   - Comparison with more advanced algorithms like Wolff and Swendsen-Wang.
   - Visualization of lattice configurations and temperature-dependent properties.
-
+    
 ### 2. RandomWalk.ipynb
 - **Description:** This notebook explores random walk models in 1D, including correlated random walks and random walks with boundary conditions. It also extends to simulations in 2D and 3D, illustrating concepts such as polymer chains, particles in glassy mediums, and quantum walks.
 - **Key Features:**
@@ -31,6 +31,7 @@ To run the simulations provided in this repository:
    jupyter notebook IsingMC.ipynb
    jupyter notebook RandomWalk.ipynb
    ```
+
 
 ## License
 This repository is licensed under the MIT License. See the [LICENSE](./LICENSE) file for more details.
